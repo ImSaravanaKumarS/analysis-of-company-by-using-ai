@@ -1,0 +1,5 @@
+{
+  "name": "Analysis of company by using AI",
+  "description": "An AI-powered application that provides a comprehensive statistical analysis of a company's stock market performance. It leverages advanced AI to deliver insights on future scope, investment potential, limitations, and predictions, complete with data visualizations.",
+  "requestFramePermissions": []
+}
